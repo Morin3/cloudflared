@@ -1,6 +1,6 @@
 module github.com/cloudflare/cloudflared
 
-go 1.22
+go 1.24
 
 require (
 	github.com/coredns/coredns v1.10.0
@@ -70,7 +70,7 @@ require (
 	github.com/google/pprof v0.0.0-20210720184732-4bb14d4b1be1 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.1 // indirect
 	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645 // indirect
-	github.com/klauspost/compress v1.15.11 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
